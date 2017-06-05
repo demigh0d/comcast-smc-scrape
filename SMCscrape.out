@@ -1,0 +1,53 @@
+VendorName|SMC Networks
+HardwareVersion|1.01
+SerialNumber|1234567890
+FirmwareVersion|3.1.6.57
+OperatingMode|RG
+SystemUptime|48d:03h:21m:10s
+SystemDate|Mon Jun 5 2017
+SystemTime|15:16:30
+InitHardware|complete
+AcquireDownChan|complete
+UpRanging|complete
+DhcpBound|complete
+SetTod|complete
+DownloadCMConfigurationFile|complete
+Registration|complete
+OnlineStatus|traffic enabled
+CableStatus|1
+TodSuccess|1
+CmDownstreamFrequencyBase-a|506.999023
+CmDownstreamFrequencyBase-b|543.002075
+CmDownstreamFrequencyBase-c|548.998779
+CmDownstreamFrequencyBase-d|555.000000
+CmDownstreamDSLockStatusBase-a|1
+CmDownstreamDSLockStatusBase-b|1
+CmDownstreamDSLockStatusBase-c|1
+CmDownstreamDSLockStatusBase-d|1
+CmDownstreamQamBase-a|256 QAM
+CmDownstreamQamBase-b|256 QAM
+CmDownstreamQamBase-c|256 QAM
+CmDownstreamQamBase-d|256 QAM
+CmDownstreamChannelPowerdBmVBase-a|9.602231
+CmDownstreamChannelPowerdBmVBase-b|11.080301
+CmDownstreamChannelPowerdBmVBase-c|10.786330
+CmDownstreamChannelPowerdBmVBase-d|10.682453
+CmDownstreamSnrBase-a|37.935909
+CmDownstreamSnrBase-b|38.983261
+CmDownstreamSnrBase-c|39.397190
+CmDownstreamSnrBase-d|38.605377
+CmUpstreamFrequencyBase-a|23699869
+CmUpstreamFrequencyBase-b|30299907
+CmUpstreamFrequencyBase-c|36699626
+CmUpstreamLockStatusBase-a|1
+CmUpstreamLockStatusBase-b|1
+CmUpstreamLockStatusBase-c|1
+CmUpstreamModuBase-a|64QAM
+CmUpstreamModuBase-b|64QAM
+CmUpstreamModuBase-c|64QAM
+CmUpstreamChannelPowerBase-a|45.5000
+CmUpstreamChannelPowerBase-b|45.5000
+CmUpstreamChannelPowerBase-c|45.5000
+CmUpstreamChannelIdBase-a|18
+CmUpstreamChannelIdBase-b|19
+CmUpstreamChannelIdBase-c|20
